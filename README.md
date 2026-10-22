@@ -1,5 +1,7 @@
 # texmdpreview
 
+> **This repository is archived.** texmdpreview now lives in [vignesh-kumar-v/kate-extras](https://github.com/vignesh-kumar-v/kate-extras/tree/main/texmdpreview), alongside other Kate plugins. Please open issues and pull requests there.
+
 A side panel for the [Kate](https://kate-editor.org) editor that previews both Markdown and LaTeX:
 
 - **`.md`**: live preview as you type, with math rendered by KaTeX (works offline)
